@@ -94,9 +94,9 @@ Master's & Scholarship Applications
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsaifulhassan\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mdsaifulhassan&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifulhassan\&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifulhassan&layout=compact&theme=tokyonight)
 
 ## 🌱 Philosophy
 
